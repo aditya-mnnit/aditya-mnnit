@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh Yadav</h1>
+<h1 align="center"> MNNIT CSE Pre-Final Year </h1>
 <h3 align="center">A passionate web developer and competetive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-mnnit&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-mnnit" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-mnnit" alt="aditya-mnnit" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Expressjs, MongoDB,AI, ML**
 
@@ -11,7 +14,7 @@
 
 - 📫 How to reach me **adityainprivate@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14rzAXfXXN4E_O8T3B9PKKRIl5yEjcjwC/view?usp=sharing](https://drive.google.com/file/d/14rzAXfXXN4E_O8T3B9PKKRIl5yEjcjwC/view?usp=sharing)
+- 📄 Resume Link : [https://drive.google.com/file/d/14rzAXfXXN4E_O8T3B9PKKRIl5yEjcjwC/view?usp=sharing](https://drive.google.com/file/d/14rzAXfXXN4E_O8T3B9PKKRIl5yEjcjwC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
