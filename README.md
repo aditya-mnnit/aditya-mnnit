@@ -45,4 +45,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-mnnit&show_icons=true&locale=en&layout=compact" alt="aditya-mnnit" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center">
+<p align="center">Thanks for Visiting!</p>
+<p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
+</p>
