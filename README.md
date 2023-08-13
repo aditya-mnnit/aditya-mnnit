@@ -4,6 +4,7 @@
 <h1 align="center"> MNNIT CSE Pre-Final Year</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate web developer and competetive programmer from India</h3>
+<p><img  height=360 align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-mnnit&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-mnnit" /> </p>
 
@@ -16,9 +17,11 @@
 - 📫 How to reach me **adityainprivate@gmail.com**
 
 - 📄 Resume Link : [https://drive.google.com/file/d/14rzAXfXXN4E_O8T3B9PKKRIl5yEjcjwC/view?usp=sharing](https://drive.google.com/file/d/14rzAXfXXN4E_O8T3B9PKKRIl5yEjcjwC/view?usp=sharing)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![](https://leetcard.jacoblin.cool/aadiitya?ext=contest&width=600)
+![](https://leetcard.jacoblin.cool/aadiitya?ext=contest&width=500)
+
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
