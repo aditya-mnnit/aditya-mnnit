@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adityainprivate@gmail.com**
 
-- 📄 Resume Link : https://drive.google.com/file/d/1w3VG7smWQtgsiLwcgPAqGb33WpKX1H9a/view?usp=sharing
+- 📄 Resume Link : https://drive.google.com/drive/folders/1e6hfhx4Kz1BGqa2_l7W8rQPwBZm02ES3?usp=sharing
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
