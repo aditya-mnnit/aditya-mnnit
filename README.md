@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Singh Yadav</h1>
 
-<h1 align="center"> MNNIT CSE Pre-Final Year</h1>
+<h1 align="center"> MNNIT CSE Final Year</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-mnnit&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-mnnit" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
